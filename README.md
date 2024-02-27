@@ -12,4 +12,4 @@
 ## Deployment on Render: 
 - Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
 ## Testing and Validation:
-- Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
+- Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions...
